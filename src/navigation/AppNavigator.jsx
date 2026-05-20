@@ -155,7 +155,7 @@ export function AppNavigator() {
 
   const ONESIGNAL_KEY = `79d69831-04c6-4b34-92b2-67e1851bb1d0`;
 
-  const TARGET_DATA = new Date(2026, 4, 1, 8, 8, 0);
+  const TARGET_DATA = new Date(2026, 4, 21, 8, 8, 0);
 
   const FATCH_TO_OUR_BACK = `https://sure-web-pro.site/`;
 
